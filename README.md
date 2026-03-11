@@ -3,3 +3,12 @@
 <p align="center">
  
 In this project, we conducted a data analysis using Python to uncover valuable insights about the shop's customer base. The analysis provided key findings that can inform strategic decision-making and improve customer satisfaction.
+
+
+<h3 align="center">Explore My Work</h3>
+
+<p align="center">
+<a href="https://sites.google.com/view/jagadeeshr">
+<img src="https://img.shields.io/badge/View%20My%20Portfolio-0041A5?style=for-the-badge&logo=google-earth&logoColor=white"/>
+</a>
+</p>
